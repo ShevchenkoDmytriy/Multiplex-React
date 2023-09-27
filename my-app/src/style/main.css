@@ -1,0 +1,24 @@
+.Back{
+    width: 125vh;
+    height: 50vh;
+    background-color: rgb(255, 75, 75);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin: auto;
+}
+.Border{
+text-align: center;
+    width: 85vh;
+    height: 30vh;
+
+    border: 10px solid white;
+}
+.Border h1{
+    font-size: 70px;
+    color: white;
+}
+.Border h3{
+    font-size: 30px;
+    color: white;
+}
